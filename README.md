@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kenechukwu Okeke</h1>
-<h3 align="center">Cybersecurity | Cloud Security | DevOps Engineer 🚀</h3>
+<h3 align="center">Cybersecurity | Cloud Security | DevOps Engineer </h3>
 
 ---
 
